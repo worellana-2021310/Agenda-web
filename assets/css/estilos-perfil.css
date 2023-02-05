@@ -1,0 +1,41 @@
+body {
+    background-image: url(../images/perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.perfil {
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding-top: 15px;
+    padding-left: 15px;
+    background: rgba(0,0,0,.1);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.568);
+}
+
+.foto {
+    width: 250px;
+    border-radius: 10px;
+    padding-right: 10px;
+    float: right;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.back {
+    width: 65px;
+    padding-left: 30px;
+    cursor: pointer;
+    padding-top: 200px;
+}

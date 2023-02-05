@@ -1,0 +1,59 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(../images/wallpaperpendi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.check {
+    font-family: sans-serif;
+    padding-left: 50px;
+    color: black;
+    font-weight: bold;
+    padding-top: 25px;
+    text-align: justify;
+}
+
+h1 {
+    padding-left: 50px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    padding-top: 15px;
+    padding-left: 15px;
+    background: rgba(0,0,0,.1);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.568);
+}
+
+h2 {
+    font-family: sans-serif;
+    font-weight: 600;
+    padding-left: 50px;
+    padding-top: 25px;
+}
+
+h3 {
+    font-family: sans-serif;
+    font-weight: 600;
+    padding-left: 50px;
+    padding-top: 25px;
+}
+
+input {
+    font-family: sans-serif;
+    padding-left: 50px;
+    color: black;
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+.back {
+    width: 60px;
+    padding-left: 30px;
+    cursor: pointer;
+    padding-top: 20px;
+}
